@@ -1,4 +1,4 @@
-### <p>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/> I'm Crossrodeo</p>
+### <p>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/> I'm crossrodeo</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=CSE+Undergrad+building+AI+Agents;AI/ML+%7C+Embedded+Systems+%7C+Cloudops;trying+to+build+cool+stuff+before+graduation)](https://git.io/typing-svg)
 
