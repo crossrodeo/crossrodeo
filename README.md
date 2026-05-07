@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crossrodeo&label=Profile%20views&color=0e75b6&style=flat" alt="crossrodeo" /> </p>
 
-- 🔭 I'm currently working on trying to build a voice assistant on a raspberry pi that doesn't sound like a broken alexa. also neetcode 150.
+- 🔭 I'm currently working on a voice assistant for raspberry pi that doesn't sound like a broken alexa, and grinding through neetcode 150.
 - 🌱 I'm currently learning how ai agents think, cloudops, and how to make models run on hardware that doesn't cost a kidney.
 - 💬 Ask me about ml projects, deepfake detection, building stuff on a budget, or how to ship side projects while your assignments pile up.
 - ⚡ Fun fact: built a terrain classifier, a deepfake detector, and a blockchain doc verifier in one semester. sleep is a myth i've heard about.
