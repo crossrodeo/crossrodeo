@@ -1,11 +1,11 @@
-### <p>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/> I'm crossrodeo</p>
+### <p>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/> I'm Prakhar</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=CSE+Undergrad+building+AI+Agents;AI/ML+%7C+Embedded+Systems+%7C+Cloudops;trying+to+build+cool+stuff+before+graduation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=CSE+Undergrad+building+AI+Agents;AI/ML+%7C+Cloudops;building+cool+stuff+brick+by+brick)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crossrodeo&label=Profile%20views&color=0e75b6&style=flat" alt="crossrodeo" /> </p>
 
-- 🔭 I'm currently working on a voice assistant for raspberry pi that doesn't sound like a broken alexa, and grinding through neetcode 150.
-- 🌱 I'm currently learning how ai agents think, cloudops, and how to make LLM's run on hardware that doesn't cost a kidney.
+- 🔭 I'm currently working on building a voice assistant for raspberry pi that doesn't sound like a broken alexa, and grinding through neetcode 150.
+- 🌱 I'm currently learning how ai agents think, cloudops, and how to make LLM's run on hardware that doesn't cost a fortune.
 - 💬 Ask me about ml pipelines, deepfake detection, building stuff on a tight schedule, or how to ship side projects while your assignments pile up.
 - ⚡ Fun fact: built a terrain classifier, a deepfake detector, and a blockchain doc verifier in one semester. sleep is a myth i've heard about.
 
